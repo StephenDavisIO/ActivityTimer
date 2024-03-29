@@ -1,1 +1,1 @@
-# ActivityTimer
+# Activity Timer
